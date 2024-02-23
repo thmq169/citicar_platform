@@ -1,0 +1,10 @@
+.feature-certification {
+  background-image: linear-gradient(0deg,
+      hsl(213deg 59% 22%) 0%,
+      hsl(213deg 63% 22%) 26%,
+      hsl(214deg 66% 23%) 39%,
+      hsl(215deg 68% 24%) 50%,
+      hsl(216deg 68% 24%) 61%,
+      hsl(218deg 68% 25%) 74%,
+      hsl(220deg 66% 26%) 100%);
+}
